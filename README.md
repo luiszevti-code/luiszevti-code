@@ -1,6 +1,7 @@
 # Luis Zevallos Escobedo
 
 **Ingeniero de Sistemas · Análisis de datos · Business Intelligence · Automatización · Desarrollo web**
+
 Lima, Perú
 
 Trabajo con datos: los preparo, los consulto con SQL y los visualizo en dashboards. También automatizo procesos con herramientas low-code. Soy fundador de **MentDev**, donde desarrollo soluciones tecnológicas y de gestión de datos.

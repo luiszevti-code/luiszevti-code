@@ -17,6 +17,7 @@ Trabajo con datos: los preparo, los consulto con SQL y los visualizo en dashboar
 | [mundial-2022-powerbi](https://github.com/luiszevti-code/mundial-2022-powerbi) | Dashboard interactivo del Mundial 2022 con indicadores del torneo | Power BI |
 | [pokeboard-powerbi](https://github.com/luiszevti-code/pokeboard-powerbi) | Pokédex interactivo (generaciones 1 a 3) con análisis de tipos, rankings y evoluciones; datos de PokéAPI | Power BI, Power Query |
 | [portafolio-web-aws](https://github.com/luiszevti-code/portafolio-web-aws) | Mi portafolio web, alojado en Amazon S3 como sitio estático | HTML, CSS, JavaScript, AWS S3 |
+| [clinica-laravel-backend](https://github.com/luiszevti-code/clinica-laravel-backend) | Sistema de gestión clínica y agendamiento (ERP), con control de historias clínicas, papelera lógica y paneles de analítica/BI. | PHP (Laravel), MySQL/MariaDB, Blade, JavaScript, Hostinger |
 
 Voy subiendo más proyectos de forma progresiva.
 

@@ -35,4 +35,4 @@ Voy subiendo más proyectos de forma progresiva.
 
 ## Contacto
 
-- [LinkedIn](https://linkedin.com/in/luis-zevallos-257764253)
+- [LinkedIn](www.linkedin.com/in/luis-zevallos-escobedo-257764253)
